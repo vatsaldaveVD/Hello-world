@@ -5,9 +5,9 @@
 
 <html>
  <head>
-  <title>Hello World</title>
+  <title>Hello World!</title>
  </head>
  <body>
-  <p><?= $text ?></p>
+  <h1 style="margin:25%; color=red;"><?= $text ?></h1>
  </body>
 </html>
