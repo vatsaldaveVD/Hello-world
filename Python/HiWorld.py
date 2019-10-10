@@ -1,2 +1,2 @@
-hi = ("Hi and Hello World")
-print hi
+message = "Hi and Hello World"
+print (message)
